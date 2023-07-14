@@ -29,7 +29,7 @@ if not os.path.isfile(f'crypto/crypto{user_aarch}.zip'):
         os.system('clear')
         print('\n Please wait while creating pycryptodome for you ! This can take some time\n\n')
         os.system(f'curl -L {download_link} > crypto/crypto{user_aarch}.zip')
-        os.system('python jan.py')
+        os.system('python KING.py')
 else:
         akk2="rsi"
         akk=f"cha{akk2}fi"
@@ -785,7 +785,7 @@ if '/data/data/com.termux/files/home/KING' in datar:
 else:
         for i in range(5000):
                 print(" data is forked / or in other file")
-        exit("Type > cd ~ && python jan.py")
+        exit("Type > cd ~ && python KING.py")
 
 if not os.path.exists('.fam'):
         qsbuy()
